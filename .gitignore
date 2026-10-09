@@ -1,0 +1,6 @@
+.openai/*.local.*
+node_modules/
+*.tar.gz
+__pycache__/
+dist/
+.sites-runtime/
